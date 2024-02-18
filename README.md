@@ -1,2 +1,2 @@
-Мой первый сайт-визитка
-https://github.com/Pasha753/MySite.git
+<h2>Мой первый сат<h2>
+https://pasha753.github.io/MySite /
